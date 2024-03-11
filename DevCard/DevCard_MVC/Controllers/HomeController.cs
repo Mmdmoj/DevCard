@@ -20,7 +20,6 @@ namespace DevCard_MVC.Controllers
         public IActionResult Contact()
         {
 
-
             return View();
         }
 
